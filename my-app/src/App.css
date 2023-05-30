@@ -1,0 +1,181 @@
+@font-face {
+  font-family: jacques;
+  src: url(jacquesfrancois-regular.ttf);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h2{
+  margin-top: 50px;
+}
+
+a
+{
+  color: black;
+}
+
+input{
+  border: solid 2px black;
+}
+textarea { 
+  border: solid 2px black;
+  resize: none;
+  width: 300px;
+  height: 100px;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  border: none;
+  border: solid 2px black;
+  background: rgba(255, 255, 255,0);
+  font-size: 17px;
+  font-family: jacques;
+}
+
+button:hover{
+  background-color: lightgray;
+}
+
+.App {
+  background-color: #E8E8E8;
+  font-family: jacques;
+  overflow-x: hidden;
+  cursor: url('cursor.png'), auto;	
+}
+
+.titlePage {
+  background-color: #E8E8E8;
+  font-family: jacques;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.mainPage{
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+  padding-top: 5px;
+}
+
+.end{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+.content {
+  width: 500px;
+  margin: auto;
+  word-wrap: break-word;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 50%;
+}
+
+.nav {
+  margin-top: 20px;
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+
+.nav:hover {
+  text-decoration: underline;
+}
+
+.skill {
+  border: solid 2px black;
+  margin: 10px;
+  background-color: #E8E8E8;
+  padding: 10px;
+  line-height: 70px;
+  text-decoration: none;
+  color: black;
+}
+
+.skill:hover {
+  background-color: lightgray;
+}
+
+.projects{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.project{
+  border: solid 2px black;
+  padding: 20px;
+  width: 200px;
+  margin: 10px;
+}
+
+.project:hover {
+  background-color: #E8E8E8;
+}
+
+.project h3 {
+  margin: 0px;
+}
+
+.award {
+  border: solid 2px black;
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  width: 700px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.award:hover {
+  background-color: #E8E8E8;
+}
+
+.award h3 {
+  margin: 0px;
+  margin-right: 15px;
+}
+
+.award p {
+  margin: 0px !important;
+}
+
+#words {
+  align-self: center;
+  margin-right: 70px;
+}
+
+#title{
+  font-size: 50px;
+  margin-bottom: 5px;
+}
+
+#subtitle {
+  font-size: 17px;
+}
+
+#contact {
+  border: solid 2px black;
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+}
+
+#submit {
+  margin-top: 20px;
+}
