@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "//sarah-i-rubenstein2.github.io/static/css/main.5d23d652.css",
+    "main.js": "//sarah-i-rubenstein2.github.io/static/js/main.1cfb48ac.js",
+    "static/js/787.28cb0dcd.chunk.js": "//sarah-i-rubenstein2.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/space.png": "//sarah-i-rubenstein2.github.io/static/media/space.6b01cfe6abc0dc913d30.png",
+    "static/media/jacquesfrancois-regular.ttf": "//sarah-i-rubenstein2.github.io/static/media/jacquesfrancois-regular.18c332512dc9a6fc39ca.ttf",
+    "index.html": "//sarah-i-rubenstein2.github.io/index.html",
+    "main.5d23d652.css.map": "//sarah-i-rubenstein2.github.io/static/css/main.5d23d652.css.map",
+    "main.1cfb48ac.js.map": "//sarah-i-rubenstein2.github.io/static/js/main.1cfb48ac.js.map",
+    "787.28cb0dcd.chunk.js.map": "//sarah-i-rubenstein2.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d23d652.css",
+    "static/js/main.1cfb48ac.js"
+  ]
+}
