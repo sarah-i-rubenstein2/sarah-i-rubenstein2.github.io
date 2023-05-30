@@ -44,7 +44,6 @@ button:hover{
   background-color: #E8E8E8;
   font-family: jacques;
   overflow-x: hidden;
-  cursor: url('cursor.png'), auto;	
 }
 
 .titlePage {
